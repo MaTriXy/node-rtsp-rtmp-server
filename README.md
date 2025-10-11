@@ -99,7 +99,7 @@ Note that the RTSP server runs on port 80 by default.
 
 #### Via RTMP
 
-RTMP stream is also available.
+RTMP stream is a legacy but widely supported protocol, still useful for streaming ingestion.
 
 **RTMP URL**: rtmp://localhost/live/STREAM_NAME
 
